@@ -25,5 +25,5 @@
 
 <hr>
 <h3>Deployed Link</h3>
-<p>Limitation: Due to the limitations of free hosting, the system's functionalities may experience delays in response times</p>
+<p>Limitation: Due to the limitations of free hosting, the system's functionalities experience delays in response times</p>
 <p>https://cab-management.vercel.app/</p>
