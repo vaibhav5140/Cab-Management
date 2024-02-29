@@ -10,7 +10,7 @@ const CabManagement = () => {
   const [editingCabId, setEditingCabId] = useState('');
   const [editingCabName, setEditingCabName] = useState('');
   const [editingCabPrice, setEditingCabPrice] = useState('');
-  const BackEnd_URI='http://localhost:8000';
+  const BackEnd_URI='https://cab-management-mg7r.onrender.com';
   useEffect(() => {
     fetchCabs();
   }, []);
